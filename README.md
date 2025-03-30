@@ -67,3 +67,10 @@ This shows the model performs equally well on both positive and negative reviews
    ```
    python sentiment_analysis.py
    ```
+
+## Future Improvements
+- Experiment with different preprocessing techniques
+- Try bidirectional LSTM or transformer-based models
+- Implement cross-validation
+- Add attention mechanisms
+- Fine-tune hyperparameters
